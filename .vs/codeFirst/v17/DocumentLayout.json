@@ -1,0 +1,647 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\implementations\\submissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\implementations\\classroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\implementations\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\isubmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\iclassroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\classroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\teacherassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\submissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\stuffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\studentassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\stuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codefirst\\migrations\\20260224134431_initialfinaldesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|solutionrelative:migrations\\20260224134431_initialfinaldesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codefirst\\codefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|solutionrelative:codefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codefirst\\codefirst.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|solutionrelative:codefirst.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories\\submissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories\\stuffreposirory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codefirst\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|solutionrelative:models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\User\\Desktop\\\u05E9\u05E0\u05D4 \u05D1\u0027\\codeFirst\\Migrations\\20260224132222_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubmissionService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\SubmissionService.cs",
+              "RelativeDocumentMoniker": "..\\service\\Implementations\\SubmissionService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\SubmissionService.cs",
+              "RelativeToolTip": "..\\service\\Implementations\\SubmissionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:26:38.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassRoomService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\ClassRoomService.cs",
+              "RelativeDocumentMoniker": "..\\service\\Implementations\\ClassRoomService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\ClassRoomService.cs",
+              "RelativeToolTip": "..\\service\\Implementations\\ClassRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:26:19.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\service\\Implementations\\AuthService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "..\\service\\Implementations\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:26:04.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssignmentService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AssignmentService.cs",
+              "RelativeDocumentMoniker": "..\\service\\Implementations\\AssignmentService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AssignmentService.cs",
+              "RelativeToolTip": "..\\service\\Implementations\\AssignmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:25:03.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISubmissionService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\ISubmissionService.cs",
+              "RelativeDocumentMoniker": "..\\service\\interfaces\\ISubmissionService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\ISubmissionService.cs",
+              "RelativeToolTip": "..\\service\\interfaces\\ISubmissionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:22:38.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAssignmentService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAssignmentService.cs",
+              "RelativeDocumentMoniker": "..\\service\\interfaces\\IAssignmentService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAssignmentService.cs",
+              "RelativeToolTip": "..\\service\\interfaces\\IAssignmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:22:29.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClassRoomService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IClassRoomService.cs",
+              "RelativeDocumentMoniker": "..\\service\\interfaces\\IClassRoomService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IClassRoomService.cs",
+              "RelativeToolTip": "..\\service\\interfaces\\IClassRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:22:14.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\service\\interfaces\\IAuthService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAuthService.cs",
+              "RelativeToolTip": "..\\service\\interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:21:51.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentAssignmentDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentAssignmentDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\Dto\\StudentAssignmentDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentAssignmentDto.cs",
+              "RelativeToolTip": "..\\service\\Dto\\StudentAssignmentDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:43:40.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeacherAssignmentDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\TeacherAssignmentDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\Dto\\TeacherAssignmentDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\TeacherAssignmentDto.cs",
+              "RelativeToolTip": "..\\service\\Dto\\TeacherAssignmentDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:08:36.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LessonDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\LessonDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\Dto\\LessonDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\LessonDto.cs",
+              "RelativeToolTip": "..\\service\\Dto\\LessonDto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:08:00.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubmissionDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\SubmissionDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\Dto\\SubmissionDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\SubmissionDto.cs",
+              "RelativeToolTip": "..\\service\\Dto\\SubmissionDto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:07:50.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\Dto\\StudentDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentDto.cs",
+              "RelativeToolTip": "..\\service\\Dto\\StudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:07:33.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StuffDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StuffDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\Dto\\StuffDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StuffDto.cs",
+              "RelativeToolTip": "..\\service\\Dto\\StuffDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:07:20.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassRoomDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\ClassRoomDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\Dto\\ClassRoomDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\ClassRoomDto.cs",
+              "RelativeToolTip": "..\\service\\Dto\\ClassRoomDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:05:31.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\Dto\\UserDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\UserDto.cs",
+              "RelativeToolTip": "..\\service\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:05:06.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Program.cs",
+              "RelativeDocumentMoniker": "..\\service\\Program.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Program.cs",
+              "RelativeToolTip": "..\\service\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:49.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClassRoomRepository.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "codeFirst.csproj",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\codeFirst.csproj",
+              "RelativeDocumentMoniker": "codeFirst.csproj",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\codeFirst.csproj",
+              "RelativeToolTip": "codeFirst.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T13:50:01.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories.csproj",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "..\\Repositories\\Repositories.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T13:50:01.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "codeFirst",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\codeFirst.csproj",
+              "RelativeDocumentMoniker": "codeFirst.csproj",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\codeFirst.csproj",
+              "RelativeToolTip": "codeFirst.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T13:50:01.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SubmissionRepository.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\SubmissionRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\SubmissionRepository.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\SubmissionRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\SubmissionRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\StudentRepository.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StuffReposirory.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StuffReposirory.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\StuffReposirory.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StuffReposirory.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\StuffReposirory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LessonRepository.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\LessonRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\LessonRepository.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\LessonRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\LessonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AssignmentRepository.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\InterFaces\\IRepository.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\InterFaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IContext.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\InterFaces\\IContext.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IContext.cs",
+              "RelativeToolTip": "..\\Repositories\\InterFaces\\IContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Assignment.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\Assignment.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Assignment.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\Assignment.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "School.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\models\\School.cs",
+              "RelativeDocumentMoniker": "models\\School.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\models\\School.cs",
+              "RelativeToolTip": "models\\School.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\AppDbContext.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Repositories\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Stuff.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Stuff.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\Stuff.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Stuff.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\Stuff.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\ClassRoom.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\ClassRoom.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\ClassRoom.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\User.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\User.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\User.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\Student.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Student.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Submission.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Submission.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\Submission.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Submission.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\Submission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260224134431_InitialFinalDesign.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\Migrations\\20260224134431_InitialFinalDesign.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260224134431_InitialFinalDesign.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\Migrations\\20260224134431_InitialFinalDesign.cs",
+              "RelativeToolTip": "Migrations\\20260224134431_InitialFinalDesign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20260224132222_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Desktop\\\u05E9\u05E0\u05D4 \u05D1\u0027\\codeFirst\\Migrations\\20260224132222_InitialCreate.cs",
+              "ToolTip": "D:\\Users\\User\\Desktop\\\u05E9\u05E0\u05D4 \u05D1\u0027\\codeFirst\\Migrations\\20260224132222_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T13:22:22.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Lesson.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\Lesson.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Lesson.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\Lesson.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Program.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Program.cs",
+              "RelativeToolTip": "..\\Repositories\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:01.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
