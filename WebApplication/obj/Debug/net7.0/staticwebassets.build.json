@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "26rLOx/WAg0AoyF9Bv5qM6GuBWyX/SVG360i4ycc3mk=",
+  "Source": "WebApplicationProject",
+  "BasePath": "_content/WebApplicationProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplicationProject\\wwwroot",
+      "Source": "WebApplicationProject",
+      "ContentRoot": "D:\\Users\\User\\Desktop\\הפרויקטים המעודכנים\\RachelProject\\WebApplication\\wwwroot\\",
+      "BasePath": "_content/WebApplicationProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Users\\User\\Desktop\\הפרויקטים המעודכנים\\RachelProject\\WebApplication\\wwwroot\\Uploads\\5c74b3c0-9348-46ca-a2f6-6757167d25da_ChatGPT said.docx",
+      "SourceId": "WebApplicationProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Users\\User\\Desktop\\הפרויקטים המעודכנים\\RachelProject\\WebApplication\\wwwroot\\",
+      "BasePath": "_content/WebApplicationProject",
+      "RelativePath": "Uploads/5c74b3c0-9348-46ca-a2f6-6757167d25da_ChatGPT said.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\5c74b3c0-9348-46ca-a2f6-6757167d25da_ChatGPT said.docx"
+    },
+    {
+      "Identity": "D:\\Users\\User\\Desktop\\הפרויקטים המעודכנים\\RachelProject\\WebApplication\\wwwroot\\Uploads\\72cdc3df-2dbc-4290-a21e-35e8b7eab650_ChatGPT said.docx",
+      "SourceId": "WebApplicationProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Users\\User\\Desktop\\הפרויקטים המעודכנים\\RachelProject\\WebApplication\\wwwroot\\",
+      "BasePath": "_content/WebApplicationProject",
+      "RelativePath": "Uploads/72cdc3df-2dbc-4290-a21e-35e8b7eab650_ChatGPT said.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\72cdc3df-2dbc-4290-a21e-35e8b7eab650_ChatGPT said.docx"
+    },
+    {
+      "Identity": "D:\\Users\\User\\Desktop\\הפרויקטים המעודכנים\\RachelProject\\WebApplication\\wwwroot\\Uploads\\7e7d0390-5ca9-4e46-9808-01adff50df2e_ChatGPT said.docx",
+      "SourceId": "WebApplicationProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Users\\User\\Desktop\\הפרויקטים המעודכנים\\RachelProject\\WebApplication\\wwwroot\\",
+      "BasePath": "_content/WebApplicationProject",
+      "RelativePath": "Uploads/7e7d0390-5ca9-4e46-9808-01adff50df2e_ChatGPT said.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\7e7d0390-5ca9-4e46-9808-01adff50df2e_ChatGPT said.docx"
+    },
+    {
+      "Identity": "D:\\Users\\User\\Desktop\\הפרויקטים המעודכנים\\RachelProject\\WebApplication\\wwwroot\\Uploads\\830bba19-f852-48f5-b2d7-87d2dc5e859c_ChatGPT said.docx",
+      "SourceId": "WebApplicationProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Users\\User\\Desktop\\הפרויקטים המעודכנים\\RachelProject\\WebApplication\\wwwroot\\",
+      "BasePath": "_content/WebApplicationProject",
+      "RelativePath": "Uploads/830bba19-f852-48f5-b2d7-87d2dc5e859c_ChatGPT said.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\830bba19-f852-48f5-b2d7-87d2dc5e859c_ChatGPT said.docx"
+    }
+  ]
+}

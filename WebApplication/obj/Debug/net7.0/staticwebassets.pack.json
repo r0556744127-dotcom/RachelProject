@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Users\\User\\Desktop\\הפרויקטים המעודכנים\\RachelProject\\WebApplication\\wwwroot\\Uploads\\5c74b3c0-9348-46ca-a2f6-6757167d25da_ChatGPT said.docx",
+      "PackagePath": "staticwebassets\\Uploads\\5c74b3c0-9348-46ca-a2f6-6757167d25da_ChatGPT said.docx"
+    },
+    {
+      "Id": "D:\\Users\\User\\Desktop\\הפרויקטים המעודכנים\\RachelProject\\WebApplication\\wwwroot\\Uploads\\72cdc3df-2dbc-4290-a21e-35e8b7eab650_ChatGPT said.docx",
+      "PackagePath": "staticwebassets\\Uploads\\72cdc3df-2dbc-4290-a21e-35e8b7eab650_ChatGPT said.docx"
+    },
+    {
+      "Id": "D:\\Users\\User\\Desktop\\הפרויקטים המעודכנים\\RachelProject\\WebApplication\\wwwroot\\Uploads\\7e7d0390-5ca9-4e46-9808-01adff50df2e_ChatGPT said.docx",
+      "PackagePath": "staticwebassets\\Uploads\\7e7d0390-5ca9-4e46-9808-01adff50df2e_ChatGPT said.docx"
+    },
+    {
+      "Id": "D:\\Users\\User\\Desktop\\הפרויקטים המעודכנים\\RachelProject\\WebApplication\\wwwroot\\Uploads\\830bba19-f852-48f5-b2d7-87d2dc5e859c_ChatGPT said.docx",
+      "PackagePath": "staticwebassets\\Uploads\\830bba19-f852-48f5-b2d7-87d2dc5e859c_ChatGPT said.docx"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplicationProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplicationProject.props",
+      "PackagePath": "build\\WebApplicationProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplicationProject.props",
+      "PackagePath": "buildMultiTargeting\\WebApplicationProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplicationProject.props",
+      "PackagePath": "buildTransitive\\WebApplicationProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

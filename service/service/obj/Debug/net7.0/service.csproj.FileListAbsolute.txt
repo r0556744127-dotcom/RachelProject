@@ -1,0 +1,562 @@
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.deps.json
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.runtimeconfig.json
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.exe
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\service.exe
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\service.deps.json
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\service.runtimeconfig.json
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\service.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\service.pdb
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\AutoMapper.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Azure.Core.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Azure.Identity.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\MailKit.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\MimeKit.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.pdb
+D:\Users\User\Desktop\ProjectAltshuler\service\service\obj\Debug\net7.0\service.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\ProjectAltshuler\service\service\obj\Debug\net7.0\service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\ProjectAltshuler\service\service\obj\Debug\net7.0\service.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\ProjectAltshuler\service\service\obj\Debug\net7.0\service.AssemblyInfo.cs
+D:\Users\User\Desktop\ProjectAltshuler\service\service\obj\Debug\net7.0\service.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\ProjectAltshuler\service\service\obj\Debug\net7.0\service.csproj.CopyComplete
+D:\Users\User\Desktop\ProjectAltshuler\service\service\obj\Debug\net7.0\service.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\obj\Debug\net7.0\refint\service.dll
+D:\Users\User\Desktop\ProjectAltshuler\service\service\obj\Debug\net7.0\service.pdb
+D:\Users\User\Desktop\ProjectAltshuler\service\service\obj\Debug\net7.0\service.genruntimeconfig.cache
+D:\Users\User\Desktop\ProjectAltshuler\service\service\obj\Debug\net7.0\ref\service.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.deps.json
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.runtimeconfig.json
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.exe
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\service.exe
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\service.deps.json
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\service.runtimeconfig.json
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\service.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\service.pdb
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\AutoMapper.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Azure.Core.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Azure.Identity.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\MailKit.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\MimeKit.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Formats.Asn1.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\System.IO.Pipelines.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Memory.Data.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.dll
+E:\PROJECT\ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.pdb
+E:\PROJECT\ProjectAltshuler\service\service\obj\Debug\net7.0\service.csproj.AssemblyReference.cache
+E:\PROJECT\ProjectAltshuler\service\service\obj\Debug\net7.0\service.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT\ProjectAltshuler\service\service\obj\Debug\net7.0\service.AssemblyInfoInputs.cache
+E:\PROJECT\ProjectAltshuler\service\service\obj\Debug\net7.0\service.AssemblyInfo.cs
+E:\PROJECT\ProjectAltshuler\service\service\obj\Debug\net7.0\service.csproj.CoreCompileInputs.cache
+E:\PROJECT\ProjectAltshuler\service\service\obj\Debug\net7.0\service.csproj.Up2Date
+E:\PROJECT\ProjectAltshuler\service\service\obj\Debug\net7.0\service.dll
+E:\PROJECT\ProjectAltshuler\service\service\obj\Debug\net7.0\refint\service.dll
+E:\PROJECT\ProjectAltshuler\service\service\obj\Debug\net7.0\service.pdb
+E:\PROJECT\ProjectAltshuler\service\service\obj\Debug\net7.0\service.genruntimeconfig.cache
+E:\PROJECT\ProjectAltshuler\service\service\obj\Debug\net7.0\ref\service.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.deps.json
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.runtimeconfig.json
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.exe
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\service.exe
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\service.deps.json
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\service.runtimeconfig.json
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\service.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\service.pdb
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\AutoMapper.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Azure.Core.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Azure.Identity.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\MailKit.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\MimeKit.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Formats.Asn1.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.IO.Pipelines.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Memory.Data.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.dll
+E:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.pdb
+E:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.csproj.AssemblyReference.cache
+E:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.AssemblyInfoInputs.cache
+E:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.AssemblyInfo.cs
+E:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.csproj.CoreCompileInputs.cache
+E:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.csproj.Up2Date
+E:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.dll
+E:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\refint\service.dll
+E:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.pdb
+E:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.genruntimeconfig.cache
+E:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\ref\service.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.deps.json
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.runtimeconfig.json
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.exe
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\service.exe
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\service.deps.json
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\service.runtimeconfig.json
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\service.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\service.pdb
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\AutoMapper.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Azure.Core.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Azure.Identity.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\MailKit.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\MimeKit.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Formats.Asn1.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.IO.Pipelines.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Memory.Data.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.dll
+F:\PROJECT\__ProjectAltshuler\service\service\bin\Debug\net7.0\Repositories.pdb
+F:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.csproj.AssemblyReference.cache
+F:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.AssemblyInfoInputs.cache
+F:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.AssemblyInfo.cs
+F:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.csproj.CoreCompileInputs.cache
+F:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.csproj.CopyComplete
+F:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.dll
+F:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\refint\service.dll
+F:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.pdb
+F:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\service.genruntimeconfig.cache
+F:\PROJECT\__ProjectAltshuler\service\service\obj\Debug\net7.0\ref\service.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Repositories.deps.json
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Repositories.runtimeconfig.json
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Repositories.exe
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\service.exe
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\service.deps.json
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\service.runtimeconfig.json
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\service.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\service.pdb
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\AutoMapper.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Azure.Core.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Azure.Identity.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\MailKit.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\MimeKit.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\System.Formats.Asn1.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\System.IO.Pipelines.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\System.Memory.Data.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Repositories.dll
+E:\פרוייקט c# react\RachelProject\service\service\bin\Debug\net7.0\Repositories.pdb
+E:\פרוייקט c# react\RachelProject\service\service\obj\Debug\net7.0\service.csproj.AssemblyReference.cache
+E:\פרוייקט c# react\RachelProject\service\service\obj\Debug\net7.0\service.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרוייקט c# react\RachelProject\service\service\obj\Debug\net7.0\service.AssemblyInfoInputs.cache
+E:\פרוייקט c# react\RachelProject\service\service\obj\Debug\net7.0\service.AssemblyInfo.cs
+E:\פרוייקט c# react\RachelProject\service\service\obj\Debug\net7.0\service.csproj.CoreCompileInputs.cache
+E:\פרוייקט c# react\RachelProject\service\service\obj\Debug\net7.0\service.csproj.CopyComplete
+E:\פרוייקט c# react\RachelProject\service\service\obj\Debug\net7.0\service.dll
+E:\פרוייקט c# react\RachelProject\service\service\obj\Debug\net7.0\refint\service.dll
+E:\פרוייקט c# react\RachelProject\service\service\obj\Debug\net7.0\service.pdb
+E:\פרוייקט c# react\RachelProject\service\service\obj\Debug\net7.0\service.genruntimeconfig.cache
+E:\פרוייקט c# react\RachelProject\service\service\obj\Debug\net7.0\ref\service.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Repositories.deps.json
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Repositories.runtimeconfig.json
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Repositories.exe
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\service.exe
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\service.deps.json
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\service.runtimeconfig.json
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\service.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\service.pdb
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\AutoMapper.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Azure.Core.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Azure.Identity.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\MailKit.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\MimeKit.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\System.Formats.Asn1.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\System.IO.Pipelines.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\System.Memory.Data.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Repositories.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\Repositories.pdb
+E:\creact\RachelProject\service\service\obj\Debug\net7.0\service.csproj.AssemblyReference.cache
+E:\creact\RachelProject\service\service\obj\Debug\net7.0\service.GeneratedMSBuildEditorConfig.editorconfig
+E:\creact\RachelProject\service\service\obj\Debug\net7.0\service.AssemblyInfoInputs.cache
+E:\creact\RachelProject\service\service\obj\Debug\net7.0\service.AssemblyInfo.cs
+E:\creact\RachelProject\service\service\obj\Debug\net7.0\service.csproj.CoreCompileInputs.cache
+E:\creact\RachelProject\service\service\obj\Debug\net7.0\service.csproj.CopyComplete
+E:\creact\RachelProject\service\service\obj\Debug\net7.0\service.dll
+E:\creact\RachelProject\service\service\obj\Debug\net7.0\refint\service.dll
+E:\creact\RachelProject\service\service\obj\Debug\net7.0\service.pdb
+E:\creact\RachelProject\service\service\obj\Debug\net7.0\service.genruntimeconfig.cache
+E:\creact\RachelProject\service\service\obj\Debug\net7.0\ref\service.dll
+E:\creact\RachelProject\service\service\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Repositories.deps.json
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Repositories.runtimeconfig.json
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Repositories.exe
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\service.exe
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\service.deps.json
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\service.runtimeconfig.json
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\service.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\service.pdb
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\AutoMapper.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Azure.Core.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Azure.Identity.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\MailKit.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\MimeKit.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Repositories.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\bin\Debug\net7.0\Repositories.pdb
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\obj\Debug\net7.0\service.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\obj\Debug\net7.0\service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\obj\Debug\net7.0\service.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\obj\Debug\net7.0\service.AssemblyInfo.cs
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\obj\Debug\net7.0\service.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\obj\Debug\net7.0\service.csproj.CopyComplete
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\obj\Debug\net7.0\service.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\obj\Debug\net7.0\refint\service.dll
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\obj\Debug\net7.0\service.pdb
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\obj\Debug\net7.0\service.genruntimeconfig.cache
+D:\Users\User\Desktop\הפרויקטים המעודכנים\RachelProject\service\service\obj\Debug\net7.0\ref\service.dll
